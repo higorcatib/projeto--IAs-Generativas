@@ -18,6 +18,10 @@ tem varia inteligência artificial mais prefiri a ebookmake.Ia sendo simples e e
 
 ## 🚀 Resultados
 # como Inteligência
+```
+![Inteligencia artificial](https://www.plmpro.com.br/storage/app/uploads/public/653/c0f/420/653c0f420a425493820963.jpg "inteligência artificial generativa")
+
+### SUMÁRIO
 
 # artificial generativa pode
 
@@ -26,10 +30,6 @@ tem varia inteligência artificial mais prefiri a ebookmake.Ia sendo simples e e
 # tempo e como elas
 
 # funcionar
-```
-![Inteligencia artificial](https://www.plmpro.com.br/storage/app/uploads/public/653/c0f/420/653c0f420a425493820963.jpg "inteligência artificial generativa")
-
-### SUMÁRIO
 
 **Capítulo 1: Evolução da Inteligência Artificial**
 
