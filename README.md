@@ -20,16 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# como Inteligência
+artificial generativa pode
+melhora ao longo do
+tempo e como elas
+funcionar
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+E um ebook feito com IA com imagens 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Ebookmaker.ai é uma ferramenta de inteligência artificial que simplifica a criação de e-books e audiobooks. A principal proposta da plataforma é permitir que você crie um e-book completo e bem estruturado a partir de um único título.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+tem varia inteligência artificial mais prefiri a ebookmake.Ia sendo simples e eficaz 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
